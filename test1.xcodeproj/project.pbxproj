@@ -64,6 +64,8 @@
 		944A1A6626D28C76004E3B82 /* ListHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListHelper.swift; sourceTree = "<group>"; };
 		944A1A6826D290A6004E3B82 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
 		944A1A6A26D292D9004E3B82 /* DetailCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailCollectionViewCell.swift; sourceTree = "<group>"; };
+		944A1A7026D35D8D004E3B82 /* Sample.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Sample.gif; sourceTree = "<group>"; };
+		944A1A7226D35D98004E3B82 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B329FDD59603FC7F75FB9D91 /* Pods-test1-test1UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test1-test1UITests.release.xcconfig"; path = "Target Support Files/Pods-test1-test1UITests/Pods-test1-test1UITests.release.xcconfig"; sourceTree = "<group>"; };
 		B5AC4693BE44508B277316A5 /* Pods-test1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test1.release.xcconfig"; path = "Target Support Files/Pods-test1/Pods-test1.release.xcconfig"; sourceTree = "<group>"; };
 		C7550D3E66838059F4981273 /* Pods_test1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_test1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -127,6 +129,8 @@
 		944A1A2226D230BE004E3B82 = {
 			isa = PBXGroup;
 			children = (
+				944A1A7226D35D98004E3B82 /* README.md */,
+				944A1A7026D35D8D004E3B82 /* Sample.gif */,
 				944A1A2D26D230BE004E3B82 /* test1 */,
 				944A1A4426D230C0004E3B82 /* test1Tests */,
 				944A1A4F26D230C0004E3B82 /* test1UITests */,
